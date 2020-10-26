@@ -91,12 +91,9 @@ namespace ProductShop.Models
                 if(product.Slug == slug)
                 {
                     return product;
-                }
-                else
-                {
-                    return null;
-                }
+                }        
             }
+            return null;
         }
     }
 }

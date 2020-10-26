@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+<ul class="list-group" >
+    @foreach (var product in Database.GetProducts())
+    {
+     <li class="list-group-item">@product.Name</li>
+    }
+</ul>
