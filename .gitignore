@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/v16/Server/sqlite3/storage.ide-wal
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/v16/Server/sqlite3/storage.ide-shm
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/v16/Server/sqlite3/storage.ide
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/v16/Server/sqlite3/db.lock
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/v16/Server/sqlite3
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/v16
+/FutureValueCalculator/FutureValueCalculator/.vs/FutureValueCalculator/DesignTimeBuild/.dtbcache
